@@ -1,11 +1,6 @@
 1111111111§d¥Ã§Ó11111111111
-<<<<<<< Updated upstream
+
 yyyyy
-=======
-
-\
-
-temp
-gggggg
-\
->>>>>>> Stashed changes
+ yyyy
+yyyyyyyy
+ parent of 5a5568c (no message)
