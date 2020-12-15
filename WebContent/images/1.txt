@@ -1,2 +1,11 @@
 1111111111§d¥Ã§Ó11111111111
+<<<<<<< Updated upstream
 yyyyy
+=======
+
+\
+
+temp
+gggggg
+\
+>>>>>>> Stashed changes
